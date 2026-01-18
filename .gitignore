@@ -1,0 +1,2 @@
+# Data 용량 이슈 방지를 위해 .gitignore에 추가합니다.
+.data/
